@@ -1,4 +1,4 @@
-var name: string = 'Ihza';
-var age: number = 19;
+const name: string = 'Ihza';
+const age: number = 19;
 console.log(name);
 console.log(age);
